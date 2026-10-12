@@ -1,0 +1,7 @@
+Name,Quantity,Notes
+SEEED XIAO RP2040,1,"The ""Brain"" of the system"
+Cherry MX Switches,3,This is going to register presses
+DSA Keycaps,3,The part of a key users are going to press on
+M3x16mm SHCS Bolt,4,Holds the shell together
+Case,1,bottom.step & top.step - Find in GH Repo under /production
+PCB,1,gerbers.zip - Find in GH Repo under /production
