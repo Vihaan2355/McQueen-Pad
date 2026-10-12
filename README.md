@@ -5,7 +5,7 @@ It serves as a shortcut tool meant to be used for easier app access on laptops o
 
 <img width="1914" height="990" alt="Main Prototype" src="https://github.com/user-attachments/assets/256a7fc8-d79f-47ef-9835-46aa42cab62d" />
 
-<b>Features:<b/>
+#<b>Features:<b/>
 
 - Dual Layer 3D Printed PLA Outer Casing
 - 2 Mechanical Keys
@@ -37,7 +37,7 @@ It is designed to have 3 switches.
 
 <b>BOM (Bill of Materials)<b/>
 
-These are all of the parts that you will need to make the FOGBoard!
+These are all of the parts that you will need to make the McQueen Pad.
 
 3x Cherry MX Switches
 3x DSA Keycaps
