@@ -5,13 +5,13 @@ It serves as a shortcut tool meant to be used for easier app access on laptops o
 
 <img width="1914" height="990" alt="Main Prototype" src="https://github.com/user-attachments/assets/256a7fc8-d79f-47ef-9835-46aa42cab62d" />
 
-#<b>Features:<b/>
+# Features:
 
 - Dual Layer 3D Printed PLA Outer Casing
 - 2 Mechanical Keys
 - Custom PCB
 
-<b>CAD:<b/>
+# CAD:
 
 Everything fits together within 4 M3x16mm screws screwed to hold the top and bottom into one piece.
 The two pieces (top.step & bottom.step) are meant to be sandwiched together through the screws.
@@ -19,7 +19,7 @@ The entire model was made on OnShape.
 
 <img width="1150" height="631" alt="CAD Shell" src="https://github.com/user-attachments/assets/97082a0d-c322-4b53-826c-8285d20962dd" />
 
-<b> PCB: <b/>
+# PCB:
 
 Here is my PCB! It was made on KiCad.
 It is designed to have 3 switches.
@@ -32,10 +32,10 @@ It is designed to have 3 switches.
 
 <img width="195" height="570" alt="PCB" src="https://github.com/user-attachments/assets/f43f4933-f007-4912-8f84-441b8cf8f91f" />
 
-<b>Firmware<b/>
+# Firmware:
 
 
-<b>BOM (Bill of Materials)<b/>
+# BOM (Bill of Materials)
 
 These are all of the parts that you will need to make the McQueen Pad.
 
