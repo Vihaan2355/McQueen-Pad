@@ -34,6 +34,11 @@ It is designed to have 3 switches.
 
 # Firmware:
 
+All of ther firmware was made through a combination of JSON & C.
+
+- The first key is used to lock my computer
+- The second key is used to open the slack app, with shortcuts
+- The third key is used to open spotify app, with shortcuts
 
 # BOM (Bill of Materials)
 
